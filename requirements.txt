@@ -1,0 +1,13 @@
+dlib 
+Flask
+Flask-Cors
+numpy
+opencv-python-headless==4.2.0.32
+requests
+scipy
+urllib3
+gunicorn
+passlib
+Werkzeug
+gevent
+uwsgi
